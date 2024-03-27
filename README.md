@@ -12,10 +12,12 @@ It will give you information that how much water supply you have to give as per 
 These the some screenshots of the Khedut Mitra:-
 
 Image 1:-
-  ![img1](https://github.com/patoliyaHenish/hackathon-2024/assets/141764691/0d32967d-6b5d-4e1e-b2fb-c2808ac31b63)
+  ![img1](https://github.com/patoliyaHenish/hackathon-2024/assets/141764691/7cbb6ac2-51c7-4a72-af6a-8adabbbb09b9)
+
   
 Image 2:-
-  ![img2](https://github.com/patoliyaHenish/hackathon-2024/assets/141764691/336fb6a5-1c51-4325-ace1-f31c24054cac)
+  ![img2](https://github.com/patoliyaHenish/hackathon-2024/assets/141764691/0d2210d0-a92b-49be-816c-1833d748b255)
+
 
 Image 3:-
   ![img3](https://github.com/patoliyaHenish/hackathon-2024/assets/141764691/ae7ea5ed-804f-4e55-b7c4-38a6ab870bd2)
