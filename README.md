@@ -20,7 +20,9 @@ Image 2:-
 
 
 Image 3:-
-  ![img3](https://github.com/patoliyaHenish/hackathon-2024/assets/141764691/ae7ea5ed-804f-4e55-b7c4-38a6ab870bd2)
+  ![img3](https://github.com/patoliyaHenish/hackathon-2024/assets/141764691/d556306e-2218-47f4-8604-b9bec092a7db)
+
 
 Image 4:-
-  ![img4](https://github.com/patoliyaHenish/hackathon-2024/assets/141764691/c62edeef-ae16-4407-a2ca-7aab28e3d3b1)
+  ![img4](https://github.com/patoliyaHenish/hackathon-2024/assets/141764691/a19a6a1f-91cd-46da-9970-e0c83002886b)
+
